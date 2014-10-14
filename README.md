@@ -1,4 +1,4 @@
-Your_a_Wizard
+Your a Wizard!
 =============
     Copyright © October 2014 Kindle O'Connell, Jimmy Gloger, Elijah Newkirk, Anthony Clemens, & Miles Larson
     
